@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/km-bank-test-task/static/css/main.daf69f83.css",
+    "main.js": "/km-bank-test-task/static/js/main.5e905301.js",
+    "static/media/spinner.gif": "/km-bank-test-task/static/media/spinner.07a3b34f019158f7439b.gif",
+    "index.html": "/km-bank-test-task/index.html",
+    "main.daf69f83.css.map": "/km-bank-test-task/static/css/main.daf69f83.css.map",
+    "main.5e905301.js.map": "/km-bank-test-task/static/js/main.5e905301.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf69f83.css",
+    "static/js/main.5e905301.js"
+  ]
+}
